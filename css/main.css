@@ -1,0 +1,107 @@
+@font-face {
+    font-family: "RosaMarena";
+    src: url("../fonts/8585.ttf") ;
+}
+@font-face {
+    font-family: "Muller";
+    src: url("../fonts/ofont.ru_Muller.ttf");
+}
+
+body{
+    font-family:"Muller",sans-serif ;
+}
+
+
+header {
+
+    width: 100%;
+    height: 62px;
+    background: #141414;
+}
+.nav__item{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+/*################hero########################*/
+/*################hero########################*/
+#hero{
+    background: url("../img/Steve Jobs (глаза черные).png") ;
+    background-size: cover;
+    margin-top: 20px;
+
+
+
+
+}
+.hero_block{
+    width: 250px;
+    padding-top:280px;
+    margin: auto;
+    align-items: center;
+
+}
+.hero_title{
+    font-size: 27px;
+    font-family: "Muller",sans-serif;
+    color: white;
+    line-height: 20px;
+}
+.hero_title span{
+    font-family: "RosaMarena", sans-serif;
+    font-size: 93px;
+    color: #fe01e9;
+
+}
+.subtitle{
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffd200;
+    font-family: "Muller", sans-serif;
+}
+.hero_btn{
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+    width: 240px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #a42b91;
+    font-family: "Muller", sans-serif;
+    border-radius: 29px;
+    border: none;
+
+    transition: .4s;
+}
+.hero_btn:hover{
+    background: #a42b91;
+    box-shadow:inset 15px 15px 15px 20px #f182f6;
+}
+.title_description{
+    font-size: 13px;
+    color: white;
+    font-family: "Muller", sans-serif;
+    font-weight: 400;
+
+
+}
+/*################hero########################*/
+/*################hero########################*/
+/*################forWho########################*/
+/*################forWho########################*/
+#forWho{
+    background: #ad019f;
+    padding: 30px 0;
+}
+.forWho_title{
+    font-size: 29px;
+    color: white;
+    font-weight: 600;
+}
+/*################forWho########################*/
+/*################forWho########################*/

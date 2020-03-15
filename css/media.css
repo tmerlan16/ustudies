@@ -1,0 +1,207 @@
+@media (max-width: 991px) {
+    .menu a {
+        display: none;
+    }
+
+    .header__logo {
+        padding-right: 100px;
+    }
+
+
+    .hero__title {
+        font-size: 44px;
+        margin-bottom: 32px;
+    }
+
+    .hero__scroll {
+        padding-top: 113px;
+    }
+
+    .btn__scroll {
+        padding-top: 113px;
+    }
+
+    .shaping__content {
+
+        margin-top: 570px;
+        text-align: center;
+    }
+
+    .r, .w, .m {
+        margin-left: 100px;
+
+    }
+
+    .i {
+        text-align: center;
+
+    }
+
+
+    .svh {
+        margin-left: 134px;
+
+    }
+
+
+}
+
+@media (max-width: 768px) {
+    .hero__description {
+        text-align: center;
+        margin-top: -53px;
+    }
+
+    .hero__title {
+        text-align: center;
+        font-size: 44px;
+    }
+
+    p .hero__des {
+        padding-right: 123px;
+    }
+
+    .shaping__content {
+        text-align: center;
+
+    }
+
+    .ben {
+        text-align: center;
+        margin-right: 304px;
+    }
+
+    .h2 {
+        text-align: center;
+        margin-right: 304px;
+    }
+
+    .eg {
+        text-align: center;
+        margin-right: 322px;
+    }
+
+    .mag {
+        margin-right: 323px;
+    }
+
+    .learn_btn {
+        margin-left: 74px;
+    }
+
+    .shaping__mobile {
+        position: relative;
+        right: 205px;
+        top: -206px;
+
+    }
+
+    .women {
+
+        width: 200px;
+        height: 400px;
+    }
+
+    .text_fut {
+        text-align: center;
+    }
+
+    .future__btn {
+        margin: auto;
+    }
+
+
+}
+
+@media (max-width: 450px) {
+    .hero_content {
+        text-align: center;
+        font-size: 44px;
+    }
+
+    .color {
+        display: none;
+    }
+
+
+    .shaping__content {
+        text-align: center;
+    }
+
+
+    #hero {
+
+        padding-top: 34px;
+    }
+
+    #future {
+        padding-top: 234px;
+    }
+
+    a .hero__scroll__btn {
+        padding-top: -123px;
+    }
+
+    .hero__title h1 {
+        font-size: 30px;
+        margin-bottom: 32px;
+    }
+
+    .hero__description {
+        font-size: 12px;
+
+    }
+
+    .shaping__content {
+
+        margin-top: 570px;
+    }
+
+    .shaping__mobile {
+        margin-right: 34px;
+    }
+
+    .shaping__content h2 {
+        font-size: 20px;
+    }
+
+    .owl-carousel {
+
+
+    }
+
+    .images {
+
+    }
+
+    .kara {
+
+    }
+
+    .form-control {
+        padding: 2px 74px;
+    }
+
+    .follow_btn {
+        margin: 0 -50px;
+    }
+
+    .sub {
+        margin-bottom: 50px;
+    }
+
+    .cras {
+        margin-bottom: 50px;
+    }
+    .des{
+
+    }
+    .owl-stage{
+
+    }
+    .owl-nav{
+        opacity: 0;
+    }
+
+
+}
